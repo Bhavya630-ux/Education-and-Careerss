@@ -1,0 +1,49 @@
+{
+  "project": "CareerPath AI",
+  "example_target_role": "Junior Business Analyst",
+  "skills": [
+    {
+      "skill": "Communication",
+      "current_level": "Intermediate",
+      "target_level": "Strong",
+      "gap": "Low",
+      "priority": "Medium"
+    },
+    {
+      "skill": "Documentation",
+      "current_level": "Intermediate",
+      "target_level": "Strong",
+      "gap": "Low",
+      "priority": "Low"
+    },
+    {
+      "skill": "Excel",
+      "current_level": "Basic",
+      "target_level": "Intermediate",
+      "gap": "Medium",
+      "priority": "High"
+    },
+    {
+      "skill": "SQL",
+      "current_level": "Beginner",
+      "target_level": "Basic",
+      "gap": "Medium",
+      "priority": "High"
+    },
+    {
+      "skill": "Data Visualization",
+      "current_level": "None",
+      "target_level": "Basic",
+      "gap": "High",
+      "priority": "High"
+    },
+    {
+      "skill": "Business Analysis",
+      "current_level": "Beginner",
+      "target_level": "Intermediate",
+      "gap": "High",
+      "priority": "High"
+    }
+  ],
+  "rule": "Prioritize high-impact skills that are important for the target role and realistic within the user's available time."
+}
