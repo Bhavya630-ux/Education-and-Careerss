@@ -1,0 +1,77 @@
+{
+  "project": "CareerPath AI",
+  "inputs": [
+    {
+      "id": "persona",
+      "label": "What is your current career situation?",
+      "type": "select",
+      "required": true
+    },
+    {
+      "id": "education",
+      "label": "What is your educational background?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "id": "experience",
+      "label": "Describe your previous work or project experience.",
+      "type": "textarea",
+      "required": true
+    },
+    {
+      "id": "career_goal",
+      "label": "What career or role are you interested in?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "id": "technical_skills",
+      "label": "What technical skills do you currently have?",
+      "type": "textarea",
+      "required": true
+    },
+    {
+      "id": "soft_skills",
+      "label": "What soft skills do you have?",
+      "type": "textarea",
+      "required": true
+    },
+    {
+      "id": "career_break",
+      "label": "Do you have a career break? If yes, how long?",
+      "type": "text",
+      "required": false
+    },
+    {
+      "id": "available_time",
+      "label": "How much time can you spend learning each day?",
+      "type": "select",
+      "required": true
+    },
+    {
+      "id": "budget",
+      "label": "What is your learning budget?",
+      "type": "select",
+      "required": true
+    },
+    {
+      "id": "responsibilities",
+      "label": "What responsibilities or constraints should your plan consider?",
+      "type": "textarea",
+      "required": false
+    },
+    {
+      "id": "learning_preference",
+      "label": "How do you prefer to learn?",
+      "type": "select",
+      "required": false
+    },
+    {
+      "id": "confidence",
+      "label": "How confident are you about achieving your career goal?",
+      "type": "select",
+      "required": false
+    }
+  ]
+}
