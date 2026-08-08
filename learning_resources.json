@@ -1,0 +1,43 @@
+{
+  "project": "CareerPath AI",
+  "recommendation_policy": {
+    "priority": "Free or affordable resources",
+    "consider": [
+      "User budget",
+      "Available time",
+      "Career goal",
+      "Current skill level",
+      "Expected outcome"
+    ]
+  },
+  "resource_types": [
+    {
+      "skill": "SQL",
+      "resource_type": "Interactive SQL Practice",
+      "cost": "Free or Low Cost",
+      "estimated_time": "10-15 hours",
+      "expected_outcome": "Ability to write basic SQL queries."
+    },
+    {
+      "skill": "Excel",
+      "resource_type": "Spreadsheet Exercises",
+      "cost": "Free or Low Cost",
+      "estimated_time": "8-12 hours",
+      "expected_outcome": "Ability to clean data and perform basic analysis."
+    },
+    {
+      "skill": "Data Visualization",
+      "resource_type": "Dashboard Tutorial and Practice Dataset",
+      "cost": "Free or Low Cost",
+      "estimated_time": "10-15 hours",
+      "expected_outcome": "Ability to create and explain a business dashboard."
+    },
+    {
+      "skill": "Interview Preparation",
+      "resource_type": "Role-Specific Mock Interview",
+      "cost": "Free",
+      "estimated_time": "3-5 hours",
+      "expected_outcome": "Improved technical, behavioral and practical interview performance."
+    }
+  ]
+}
