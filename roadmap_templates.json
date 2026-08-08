@@ -1,0 +1,86 @@
+{
+  "project": "CareerPath AI",
+  "durations": {
+    "30_day": {
+      "weeks": 4,
+      "focus": "Foundation"
+    },
+    "60_day": {
+      "weeks": 8,
+      "focus": "Foundation and Skill Building"
+    },
+    "90_day": {
+      "weeks": 12,
+      "focus": "Foundation, Skill Building and Career Readiness"
+    }
+  },
+  "weekly_structure": [
+    "Learning Objective",
+    "Topics",
+    "Practice Activity",
+    "Expected Outcome",
+    "Estimated Time"
+  ],
+  "example_90_day_business_analyst_plan": [
+    {
+      "week": 1,
+      "focus": "Career orientation and Excel fundamentals",
+      "output": "Personal skill inventory"
+    },
+    {
+      "week": 2,
+      "focus": "Excel formulas and data cleaning",
+      "output": "Cleaned practice dataset"
+    },
+    {
+      "week": 3,
+      "focus": "SQL fundamentals",
+      "output": "Basic SQL query set"
+    },
+    {
+      "week": 4,
+      "focus": "SQL practice",
+      "output": "Mini data analysis"
+    },
+    {
+      "week": 5,
+      "focus": "Intermediate SQL",
+      "output": "SQL query challenge"
+    },
+    {
+      "week": 6,
+      "focus": "Data visualization",
+      "output": "Dashboard draft"
+    },
+    {
+      "week": 7,
+      "focus": "Business case analysis",
+      "output": "Business insights report"
+    },
+    {
+      "week": 8,
+      "focus": "Dashboard development",
+      "output": "Working dashboard"
+    },
+    {
+      "week": 9,
+      "focus": "Portfolio project",
+      "output": "Completed case study"
+    },
+    {
+      "week": 10,
+      "focus": "Resume preparation",
+      "output": "Targeted resume"
+    },
+    {
+      "week": 11,
+      "focus": "Interview preparation",
+      "output": "Interview question bank"
+    },
+    {
+      "week": 12,
+      "focus": "Mock interview and job action",
+      "output": "Employer-ready portfolio and first application action"
+    }
+  ]
+}
