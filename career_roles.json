@@ -1,0 +1,87 @@
+{
+  "project": "CareerPath AI",
+  "roles": [
+    {
+      "id": "junior_business_analyst",
+      "title": "Junior Business Analyst",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Data Analysis",
+        "Data Visualization",
+        "Requirements Gathering",
+        "Communication"
+      ],
+      "evidence": [
+        "Business Case Study",
+        "Dashboard",
+        "SQL Portfolio",
+        "Interview Preparation"
+      ]
+    },
+    {
+      "id": "operations_analyst",
+      "title": "Operations Analyst",
+      "skills": [
+        "Excel",
+        "Process Analysis",
+        "Reporting",
+        "Problem Solving",
+        "Communication"
+      ],
+      "evidence": [
+        "Operations Dashboard",
+        "Process Improvement Case Study",
+        "Business Report"
+      ]
+    },
+    {
+      "id": "reporting_analyst",
+      "title": "Reporting Analyst",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Data Visualization",
+        "Reporting",
+        "Attention to Detail"
+      ],
+      "evidence": [
+        "Reporting Dashboard",
+        "SQL Portfolio",
+        "Data Insights Report"
+      ]
+    },
+    {
+      "id": "project_coordinator",
+      "title": "Project Coordinator",
+      "skills": [
+        "Planning",
+        "Communication",
+        "Documentation",
+        "Stakeholder Management",
+        "Task Tracking"
+      ],
+      "evidence": [
+        "Project Plan",
+        "Status Report",
+        "Project Coordination Case Study"
+      ]
+    },
+    {
+      "id": "junior_data_analyst",
+      "title": "Junior Data Analyst",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Data Cleaning",
+        "Statistics",
+        "Data Visualization"
+      ],
+      "evidence": [
+        "Data Analysis Project",
+        "Dashboard",
+        "SQL Portfolio"
+      ]
+    }
+  ]
+}
