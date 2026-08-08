@@ -1,0 +1,24 @@
+{
+  "project": "CareerPath AI",
+  "interview_questions": {
+    "technical": [
+      "What is SQL and why is it useful for business analysis?",
+      "What is data cleaning?",
+      "What is a KPI?",
+      "How would you analyze sales data?",
+      "What is the difference between a primary key and a foreign key?"
+    ],
+    "behavioral": [
+      "Tell me about yourself.",
+      "Why are you interested in this role?",
+      "How do your previous experiences prepare you for this role?",
+      "How would you explain a career transition professionally?",
+      "How did you manage your career break?"
+    ],
+    "practical": [
+      "You receive a sales dataset. Identify three useful business insights.",
+      "A dashboard shows declining sales. What would you investigate first?",
+      "How would you communicate an important data insight to a non-technical manager?"
+    ]
+  }
+}
