@@ -1,0 +1,71 @@
+{
+  "project": "CareerPath AI",
+  "personas": [
+    {
+      "id": "final_year_student",
+      "name": "Final-Year College Student",
+      "description": "A student preparing to enter the workforce.",
+      "needs": [
+        "career direction",
+        "job-ready skills",
+        "resume preparation",
+        "interview preparation"
+      ]
+    },
+    {
+      "id": "early_career",
+      "name": "Early-Career Professional",
+      "description": "A professional seeking career progression.",
+      "needs": [
+        "skill improvement",
+        "career progression",
+        "portfolio development",
+        "interview preparation"
+      ]
+    },
+    {
+      "id": "career_returner",
+      "name": "Woman Returning After Career Break",
+      "description": "A woman preparing to re-enter the workforce.",
+      "needs": [
+        "transferable skills",
+        "skill refresh",
+        "confidence building",
+        "flexible learning"
+      ]
+    },
+    {
+      "id": "leadership",
+      "name": "Professional Moving Into Leadership",
+      "description": "A professional preparing for leadership responsibilities.",
+      "needs": [
+        "leadership skills",
+        "communication",
+        "stakeholder management",
+        "strategic thinking"
+      ]
+    },
+    {
+      "id": "career_switcher",
+      "name": "Woman Transitioning Into Technology",
+      "description": "A woman moving from an existing field into technology or another new field.",
+      "needs": [
+        "transferable skills",
+        "skill-gap analysis",
+        "technical learning",
+        "portfolio development"
+      ]
+    },
+    {
+      "id": "first_generation",
+      "name": "First-Generation Learner",
+      "description": "A learner with limited professional networks.",
+      "needs": [
+        "career awareness",
+        "affordable learning",
+        "professional guidance",
+        "interview preparation"
+      ]
+    }
+  ]
+}
