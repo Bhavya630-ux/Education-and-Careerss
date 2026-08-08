@@ -1,0 +1,19 @@
+{
+  "project": "CareerPath AI",
+  "purpose": "AI-generated career guidance indicator, not an official employability assessment.",
+  "weights": {
+    "skill_match": 30,
+    "practical_project": 20,
+    "communication": 15,
+    "resume": 10,
+    "interview_preparation": 15,
+    "job_search_preparation": 10
+  },
+  "score_ranges": {
+    "0-39": "Early Stage",
+    "40-59": "Building Foundation",
+    "60-74": "Developing Job Readiness",
+    "75-89": "Strong Preparation",
+    "90-100": "Highly Prepared"
+  }
+}
