@@ -1,0 +1,23 @@
+{
+  "app_name": "CareerPath AI",
+  "tagline": "From Career Confusion to the Right Next Step",
+  "platform": "Amazon PartyRock",
+  "category": "Education and Careers",
+  "target_users": "Women",
+  "main_flow": [
+    "Profile Assessment",
+    "Personal Circumstances",
+    "Career Destination",
+    "Transferable Skills",
+    "Skill Gap Analysis",
+    "Personalized Roadmap",
+    "Adaptive Weekly Schedule",
+    "Learning Recommendations",
+    "Proof of Learning",
+    "Interview Preparation",
+    "Readiness Indicator",
+    "Recovery Plan",
+    "Next Career Action"
+  ],
+  "note": "This file documents the PartyRock application architecture."
+}
