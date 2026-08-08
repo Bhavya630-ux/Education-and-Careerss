@@ -1,0 +1,40 @@
+{
+  "project": "CareerPath AI",
+  "transferable_skill_mappings": [
+    {
+      "previous_skill": "Team Coordination",
+      "transferable_skill": "Stakeholder Management",
+      "relevance": "Useful for coordinating requirements and communicating with different teams."
+    },
+    {
+      "previous_skill": "Report Preparation",
+      "transferable_skill": "Documentation and Reporting",
+      "relevance": "Useful for creating business reports and analysis documentation."
+    },
+    {
+      "previous_skill": "Deadline Management",
+      "transferable_skill": "Planning and Prioritization",
+      "relevance": "Useful for managing analytical tasks and meeting deadlines."
+    },
+    {
+      "previous_skill": "Customer Communication",
+      "transferable_skill": "Communication",
+      "relevance": "Useful for gathering requirements and presenting findings."
+    },
+    {
+      "previous_skill": "Problem Solving",
+      "transferable_skill": "Analytical Thinking",
+      "relevance": "Useful for identifying problems and recommending improvements."
+    },
+    {
+      "previous_skill": "Process Tracking",
+      "transferable_skill": "Data Organization",
+      "relevance": "Useful for organizing information and analyzing operational data."
+    },
+    {
+      "previous_skill": "Team Leadership",
+      "transferable_skill": "Leadership",
+      "relevance": "Useful for managing people, projects and stakeholder expectations."
+    }
+  ]
+}
